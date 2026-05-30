@@ -1,7 +1,6 @@
-fastapi
-uvicorn
-pydantic
-pyswisseph==2.10.3.0
-geopy
-timezonefinder
-pytz
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+pydantic>=2.10,<3
+geopy>=2.4,<3
+timezonefinder>=6.5,<7
+pytz>=2025.2
