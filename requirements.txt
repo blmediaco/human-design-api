@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 pydantic
-pyswisseph=2.10.3.0
+pyswisseph==2.10.3.0
 geopy
 timezonefinder
 pytz
